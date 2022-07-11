@@ -25,4 +25,5 @@ const components = {
             <BaseButton text="Login" />
         </div>
     </div>
+    <router-view></router-view>
 </template>
